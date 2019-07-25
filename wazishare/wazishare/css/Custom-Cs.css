@@ -1,0 +1,105 @@
+﻿.center{
+    text-align:center;
+}
+.center-page {
+    width:300px;
+    height:300px;
+    position:absolute;
+
+
+    top:-40px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+
+}
+.space-vert {
+    margin-top:20px;
+
+
+}
+.footer-pos {
+      width:auto;
+    height:auto;
+    position:absolute;
+
+
+    top:600px;
+    bottom:0;
+    left:0;
+    right:0;
+
+    margin:auto;
+
+}
+body {
+    padding-top:50px;
+}
+.item {
+    
+    height:300px;
+    width:auto;
+}
+.form-horizontal .control-label {
+
+    text-align:left;
+
+}
+
+.ctn {
+    margin:50px;
+}
+
+.nav1 a{
+    margin-bottom:10px;
+    width:150px;
+    
+}
+.cp {
+    
+    background-color:aquamarine;
+
+}
+.cu {
+    background-image:url(../Images/convenient.jpg);
+}
+.redirect {
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.cpl {
+   
+    
+
+
+}
+.bg{
+    background-color:blue;
+}
+.jumbotron {
+    background-color:#ded7d7;
+    color:black;
+    
+}
+
+.table th {
+    text-align: center;
+}
+
+
+.table {
+    border-radius: 5px;
+    width:1050%;
+    margin: 0px auto;
+    float: none;
+}
+
+.ad {
+    background-image:url(../Images/1.jpg);
+}
+.lrr {
+    background-color:honeydew;
+    
+}

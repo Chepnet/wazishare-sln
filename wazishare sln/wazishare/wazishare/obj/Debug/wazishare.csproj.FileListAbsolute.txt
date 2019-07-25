@@ -1,0 +1,16 @@
+c:\users\ngetich\documents\visual studio 2012\Projects\wazishare\wazishare\bin\wazishare.dll
+c:\users\ngetich\documents\visual studio 2012\Projects\wazishare\wazishare\bin\wazishare.pdb
+c:\users\ngetich\documents\visual studio 2012\Projects\wazishare\wazishare\obj\Debug\wazishare.dll
+c:\users\ngetich\documents\visual studio 2012\Projects\wazishare\wazishare\obj\Debug\wazishare.pdb
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\bin\wazishare.dll.config
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\bin\wazishare.dll
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\bin\wazishare.pdb
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.dll
+C:\Users\User\Downloads\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.pdb
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\bin\wazishare.dll.config
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\bin\wazishare.dll
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\bin\wazishare.pdb
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.csprojResolveAssemblyReference.cache
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.dll
+E:\micropoint stuff\PERSONAL PROJECTS\wazishare sln\wazishare sln\wazishare\wazishare\obj\Debug\wazishare.pdb
